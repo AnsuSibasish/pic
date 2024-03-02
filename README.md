@@ -50,18 +50,18 @@
     <a href="https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url" target="_blank" rel="noopener noreferrer"><b>Cloud practitioner</b></a>  <br>
     <a href="https://www.credly.com/badges/494c56cf-0396-4f3d-9638-f284adaf7967/" target="_blank" rel="noopener noreferrer"><b>AWS Academy Cloud Foundations</b></a>
 </h3>
-<h3>
-## Other:
 
-I enjoy writing technical blog posts and helping others learn about programming and computer science ✍️📚.
+## Other:
+<h3>
+I enjoy writing technical blog posts and helping others learn about programming and computer science ✍️📚.</h3>
 
 ### Looking for:
 
-Full-time software engineer position at a product-based company 🚀.
+<h3> Full-time software engineer position at a product-based company 🚀.
 Opportunities to contribute to open source projects 🧩.
 Mentorship from experienced engineers 👨‍🏫.
 </h3>
-###
+
 
 <br clear="both">
 
