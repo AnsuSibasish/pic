@@ -67,7 +67,7 @@ Mentorship from experienced engineers 👨‍🏫.
   <a href="https://linktr.ee/ansusibasish" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
   </a>
- <a href="mailto:01sibasish@gmail.com" class="contact-link">01sibasish@gmail.com
+ <a href="mailto:01sibasish@gmail.com" class="contact-link">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/thesibasish/" target="_blank">
