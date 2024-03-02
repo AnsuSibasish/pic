@@ -2,7 +2,7 @@
 
 ###
 
-
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sibasish784&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -13,7 +13,8 @@
 
   
   <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Sibasish784&" height="150" alt="trophy graph"  />
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sibasish784&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 
