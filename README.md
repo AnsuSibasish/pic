@@ -9,10 +9,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sibasish784&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibasish784&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibasish784&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sibasish784&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> 
   
   <br>
   <img src="https://github-profile-trophy.vercel.app?username=Sibasish784&" height="150" alt="trophy graph"  />
