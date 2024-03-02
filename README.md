@@ -28,12 +28,12 @@
 ###
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=Sibasish784&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 👩🏻‍💻💼📋 My Projects:
+## 👩🏻‍💻💼📋 My Projects:
 ###
 <h3>
 • Student feedback collector: A website which collects feedback from students.<br>
@@ -44,9 +44,9 @@
 • Library management system: A website which has everything to operate a library.<br>
 </h3>
 
-### 🎓Check My AWS Certificates🥇:
+## 🎓Check My AWS Certificates🥇:
 ###
-<br> <h3>
+<h3>
 <a href="https://www.credly.com/badges/21d6fadf-56bf-4fa8-b348-508936075b23/public_url" target="_blank" rel="noopener noreferrer"><b>AWS Certified Solutions Architect – Associate</b></a> <br>
     <a href="https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url" target="_blank" rel="noopener noreferrer"><b>Cloud practitioner</b></a>  <br>
     <a href="https://www.credly.com/badges/494c56cf-0396-4f3d-9638-f284adaf7967/" target="_blank" rel="noopener noreferrer"><b>AWS Academy Cloud Foundations</b></a>
