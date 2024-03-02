@@ -51,7 +51,6 @@
     <a href="https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url" target="_blank" rel="noopener noreferrer"><b>Cloud practitioner</b></a>  <br>
     <a href="https://www.credly.com/badges/494c56cf-0396-4f3d-9638-f284adaf7967/" target="_blank" rel="noopener noreferrer"><b>AWS Academy Cloud Foundations</b></a>
 </h3>
-### 
 ## Other:
 ### 
 <h3>
