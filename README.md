@@ -9,7 +9,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sibasish784&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
   
-  [](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibasish784&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibasish784&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
   <br>
