@@ -2,11 +2,7 @@
 
 ###
 
-###
 
-<img align="right" height="150" src="https://github.com/AnsuSibasish/pic/blob/main/Sibasish.jpeg?raw=true"  />
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sibasish784&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -53,6 +49,12 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+###
+
+<img align="right" height="150" src="https://github.com/AnsuSibasish/pic/blob/main/Sibasish.jpeg?raw=true"  />
 
 ###
 
