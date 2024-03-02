@@ -36,14 +36,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sibasish784&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 👩🏻‍💻💼📋 Some Projects:
+### 👩🏻‍💻💼📋 My Projects:
 
+<h3>
 • Student feedback collector: A website which collects feedback from students.<br>
 • ABR Fitness: A demo website of a gym.<br>
 • Scholarship Portal: A portal with multiple scholarships<br>
 • AWS Mobile App Development: A simple app with honey code (In Progress)<br>
 • Password generator: A password generator with uppercase and lowercase letters, symbols and numbers.<br>
 • Library management system: A website which has everything to operate a library.<br>
+</h3>
 
 Check My AWS Certificates:
 <br> <a href="https://www.credly.com/badges/21d6fadf-56bf-4fa8-b348-508936075b23/public_url" target="_blank" rel="noopener noreferrer"><b>AWS Certified Solutions Architect – Associate</b></a> <br>
