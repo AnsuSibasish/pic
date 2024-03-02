@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋<br>I'm Sibasish 💻 👀 I'm a computer science engineer with a passion for web development, cloud computing ☁️📊. I have experience with Java, SQL, AWS, Canva, and WordPress 🐍☕. 🌱 I'm currently learning Cloud Computing 🤖🧠. 💞️ I'm looking for opportunities to work on challenging and impactful projects at a product-based company 🚀.<br>You can also look at my full profile <a href="https://sibasish784.github.io/sibasish/" target="_blank" rel="noopener noreferrer"><b>Here 😀</b></a></h3>
+<h3 align="center">Hi there 👋<br>I'm 𝑺𝒊𝒃𝒂𝒔𝒊𝒔𝒉 💻 👀 I'm a computer science engineer with a passion for web development, cloud computing ☁️📊. I have experience with Java, SQL, AWS, Canva, and WordPress 🐍☕. 🌱 I'm currently learning Cloud Computing 🤖🧠. 💞️ I'm looking for opportunities to work on challenging and impactful projects at a product-based company 🚀.<br>You can also look at my full profile <a href="https://sibasish784.github.io/sibasish/" target="_blank" rel="noopener noreferrer"><b>Here 😀</b></a></h3>
 
 ###
 
@@ -32,8 +32,11 @@
 <img align="right" height="150" src="https://github.com/AnsuSibasish/pic/blob/main/Sibasish.jpeg?raw=true"  />
 
 ###
-###
-Some Projects:
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sibasish784&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 👩🏻‍💻💼📋 Some Projects:
 
 • Student feedback collector: A website which collects feedback from students.<br>
 • ABR Fitness: A demo website of a gym.<br>
