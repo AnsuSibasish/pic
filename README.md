@@ -17,7 +17,7 @@
 
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" height="30" alt="aws logo"  />
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
   <img width="10" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="10" />
