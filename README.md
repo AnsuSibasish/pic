@@ -43,7 +43,7 @@
 • Password generator: A password generator with uppercase and lowercase letters, symbols and numbers.<br>
 • Library management system: A website which has everything to operate a library.<br>
 </h3>
-###
+
 <h3>🎓Check My AWS Certificates🥇:
 
 <br> <a href="https://www.credly.com/badges/21d6fadf-56bf-4fa8-b348-508936075b23/public_url" target="_blank" rel="noopener noreferrer"><b>AWS Certified Solutions Architect – Associate</b></a> <br>
@@ -51,12 +51,11 @@
     <a href="https://www.credly.com/badges/494c56cf-0396-4f3d-9638-f284adaf7967/" target="_blank" rel="noopener noreferrer"><b>AWS Academy Cloud Foundations</b></a>
 </h3>
 <h3>
-###
-##Other:
+## Other:
 
 I enjoy writing technical blog posts and helping others learn about programming and computer science ✍️📚.
-###
-###Looking for:
+
+### Looking for:
 
 Full-time software engineer position at a product-based company 🚀.
 Opportunities to contribute to open source projects 🧩.
@@ -93,7 +92,6 @@ Mentorship from experienced engineers 👨‍🏫.
   </a>
 </div>
 
-###
 
 <br clear="both">
 
