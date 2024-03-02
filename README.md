@@ -63,7 +63,6 @@
 ###
 Some Projects:
 
-My Portfolio: Web Development A multi-webpage site developed using HTML, CSS.
 • Student feedback collector: A website which collects feedback from students.
 • ABR Fitness: A demo website of a gym.
 • Scholarship Portal: A portal with multiple scholarships
