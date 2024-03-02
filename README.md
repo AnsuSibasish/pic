@@ -1,8 +1,6 @@
 <h3 align="left">Hi there 👋<br>I'm 𝑺𝒊𝒃𝒂𝒔𝒊𝒔𝒉 💻 👀 A computer science engineer with a passion for web development, cloud computing ☁️📊. I have experience with Java, SQL, AWS, Canva, and WordPress 🐍☕. 🌱 I'm currently learning Cloud Computing 🤖🧠. 💞️ I'm looking for opportunities to work on challenging and impactful projects at a product-based company 🚀.<br>You can also look at my full profile <a href="https://sibasish784.github.io/sibasish/" target="_blank" rel="noopener noreferrer"><b>Here 😀</b></a></h3>
-<img align="right" height="150" src="https://github.com/AnsuSibasish/pic/blob/main/Sibasish.jpeg?raw=true"  />
-###
-###
-###
+
+<img align="center" height="150" src="https://github.com/AnsuSibasish/pic/blob/main/Sibasish.jpeg?raw=true"  />
 
 # 📊 GitHub Stats:
 
